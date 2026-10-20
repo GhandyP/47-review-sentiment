@@ -1,0 +1,13 @@
+# Local tooling metadata
+.atl/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Go build and test artifacts
+*.exe
+*.test
+*.out
+*.prof
